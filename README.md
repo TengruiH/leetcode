@@ -1,2 +1,2 @@
 # leetcode
-The problem of solving Code on leetcode I do
+The problem of solving code on leetcode I do
